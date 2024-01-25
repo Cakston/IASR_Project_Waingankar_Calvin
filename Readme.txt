@@ -14,7 +14,7 @@ Report-HumanDetection.pdf is the project report file.
 custom_hog_function.py: This file contains the implementation of our custom HOG (Histogram of Oriented Gradients) feature extractor.
 
 For training/testing images
---> images folder
+https://drive.google.com/drive/folders/1nvBuVXTuNzGPwbvSFmg-U4PVu6-Qc_QU?usp=sharing
 
 
 $Training$
