@@ -1,5 +1,4 @@
-Repo link for training/testing images
-https://github.com/Cakston/image_set_iasr.git
+
 
 HUMAN DETECTION USING HOG - README
 
@@ -13,6 +12,10 @@ Some sample output images are present in "OP_images" directory.
 Report-HumanDetection.pdf is the project report file.
 
 custom_hog_function.py: This file contains the implementation of our custom HOG (Histogram of Oriented Gradients) feature extractor.
+
+For training/testing images
+--> images folder
+
 
 $Training$
 1. custom_Train_HOG_SVM.py: Use this script to train an SVM (Support Vector Machine) classifier based on the extracted HOG features.
